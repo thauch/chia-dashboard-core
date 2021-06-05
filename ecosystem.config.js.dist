@@ -5,16 +5,6 @@ module.exports = {
     instances : 'max',
     exec_mode : 'cluster',
     env: {
-      NODE_ENV: 'production',
-      GOOGLE_CLIENT_ID:'249551392486-170u2ta7chhkm177g7693v5dhp8p8gnc.apps.googleusercontent.com',
-      GOOGLE_CLIENT_SECRET:'LK0D27FggR7coj14V0xG3OOp',
-      JWT_SIGNING_SECRET:'JHk',
-      DATABASE_URL: 'mongodb://127.0.0.1:27017',
-      DISCORD_CLIENT_ID:'844368685791707176',
-      DISCORD_CLIENT_SECRET:'P1yBH1uLu2-wj3BNWnCGf7XpmTwz98Nt',
-      GITHUB_CLIENT_ID:'da6c2355e9bfe8f37efa',
-      GITHUB_CLIENT_SECRET:'f8831c6438259943eef94dc6fde28397018df2c0'
-
     },
   }],
 };

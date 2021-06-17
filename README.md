@@ -1,7 +1,7 @@
 Chia-Dashboard-Core
 ======
 
-The api powering https://dashboard.chia.foxypool.io. No support for users self-hosting, you are on your own.
+The api powering https://chiadashboard.com.
 Forked from felixbrucker, all credits to him :)
 
 Installation
